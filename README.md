@@ -29,7 +29,6 @@ Find the user of your choice on github with this simple web application.
 * JavaScript
   * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   * [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  * [](https://devdocs.io/javascript/)
 * CSS
   * [CSS](https://getbootstrap.com/docs/3.4/css/)
 * Markdwon
