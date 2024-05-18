@@ -16,9 +16,10 @@ Find the user of your choice on github with this simple web application.
 
 ## :notebook: Features
 
-* Write HTML, CSS and JavaScript
-* Run the program
-* Visit output
+* Search GitHub users by their usernames or partial usernames.
+* Display GitHub user profiles including their name, avatar, number of public repositories, number of public gists, and links to their GitHub profile and website (if available).
+* Ability to run the program directly from the browser.
+* Easy navigation to the output/profiles of searched users.
 
 ## :pencil2: Usage
 
