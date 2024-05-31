@@ -8,7 +8,6 @@ Find the user of your choice on github with this simple web application.
 
     .
     ├── img - contains all images for the application
-    ├── CODE_OF_CONDUCT.md - project code of conduct
     ├── COPYRIGHT - project copyright
     ├── index.html - program entrypoint 
     ├── LICENSE - contains license text
